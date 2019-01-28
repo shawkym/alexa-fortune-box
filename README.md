@@ -1,6 +1,9 @@
-![](https://images-na.ssl-images-amazon.com/images/I/61XOs5fVFlL.png =200x200)
+<p align="center">
+<img src="https://images-na.ssl-images-amazon.com/images/I/61XOs5fVFlL.png" width="100" height="100" align="middle"> </img></p>
+<h1 align="center">
+Fortune Box Skill
+</h1>
 
-# Fortune Box Skill
 Alexa skill to tell fortune.
 
 ## Licence
@@ -13,4 +16,5 @@ The above copyright notice and this permission notice shall be included in all c
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-![](https://opensource.org/files/OSI_Approved_License.png =100x130)
+<p align="right">
+<img src="https://opensource.org/files/OSI_Approved_License.png" width="100" height="140"> </img></p>
